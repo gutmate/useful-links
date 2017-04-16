@@ -64,6 +64,7 @@
 * [web devices capabilities](http://mydevice.io/) - 웹, 모바일 디바이스 width, pixel-ratio, ppi 정보
 * [Code On Web](https://codeonweb.com/) - 코드 실습, 학습
 * [프론트앤드 포럼](http://eond.com/frontend)
+* [영감을 주는 웹 디지인](http://hornil.com/kr/design/InspirationWebDesign.html)
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
