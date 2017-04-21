@@ -46,6 +46,7 @@
 * [React.js 실서비스 적용기](http://slides.com/roto/react-js-live-service#/) - 슬라이드
 * [React Watch](http://codepen.io/SuperDean/pen/evQMLo) - CODEPEN
 * [React study](https://github.com/react-study) - 하코사 고무곰 스터디
+* [jQuery 성능 최적화](http://yubylab.tistory.com/entry/jQuery-jQuery-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
