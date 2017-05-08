@@ -29,6 +29,7 @@
 * [2016년에 자바스크립트를 배우는 기분](http://www.looah.com/article/view/2054)
 * [코드로 디자인하기](https://spoqa.github.io/2015/01/16/design-with-code.html)
 * [2017. 프론트엔드 트랜드](https://www.slideshare.net/rlaxogns/2017-75371537)
+* [한국어와 웹 폰트에 관한 6.1가지 사실](http://ppss.kr/archives/95221)
 
 ## 기술 참고
 
