@@ -72,6 +72,7 @@
 * [프론트앤드 포럼](http://eond.com/frontend)
 * [영감을 주는 웹 디자인](http://hornil.com/kr/design/InspirationWebDesign.html)
 * [큐레이션](http://www.freeqration.com/) - 저작권 걱정없는 무료이미지
+* [자바스크립트 개발자 포럼](https://jsdev.kr/)
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
