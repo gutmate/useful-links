@@ -78,6 +78,7 @@
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
 * [Vimeo Player API](https://github.com/vimeo/player.js)
 * [REACT-코드로 페인팅하기](https://translate.google.co.kr/translate?sl=en&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fairbnb.design%2Fpainting-with-code%2F&edit-text=&act=url)
+* [placehold](http://placehold.it/) - 더미이미지
 
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) - one page scroll
