@@ -32,7 +32,6 @@
 * [한국어와 웹 폰트에 관한 6.1가지 사실](http://ppss.kr/archives/95221)
 
 ## 기술 참고
-
 #### JAVASCRIPT
 * [iscroll 샘플](http://romeoh78.blogspot.kr/2013/07/bounce-iscroll-windows8-ie10-iscroll.html?m=1)
 * [D3.js 시작하기](http://webframeworks.kr/getstarted/d3js/)
@@ -73,6 +72,7 @@
 * [영감을 주는 웹 디자인](http://hornil.com/kr/design/InspirationWebDesign.html)
 * [큐레이션](http://www.freeqration.com/) - 저작권 걱정없는 무료이미지
 * [자바스크립트 개발자 포럼](https://jsdev.kr/)
+* [mopsyshin 포트폴리오 사이트](https://mopsyshin.github.io/) - 디자이너 포트폴리오 사이트 참고(github page)
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
