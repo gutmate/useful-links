@@ -51,6 +51,7 @@
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
+* [Responsive email templates](http://zurb.com/playground/responsive-email-templates)
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
