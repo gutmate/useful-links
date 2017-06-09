@@ -57,6 +57,7 @@
 * [116 CSS Menu](http://freefrontend.com/css-menu)
 * [word-wrap, word-break 줄바꿈 속성 차이](http://ohgyun.com/680)
 * [CSS Support Guide for Email Clients | Campaign Monitor](https://www.campaignmonitor.com/css/) - 이메일 코딩 지원 CSS 목록
+* [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](http://wit.nts-corp.com/2017/06/05/4571)
 
 #### ETC
 * [[운영체제] 프로세스가 뭐지?](http://bowbowbow.tistory.com/16)
