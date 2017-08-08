@@ -48,6 +48,7 @@
 * [React Watch](http://codepen.io/SuperDean/pen/evQMLo) - CODEPEN
 * [React study](https://github.com/react-study) - 하코사 고무곰 스터디
 * [jQuery 성능 최적화](http://yubylab.tistory.com/entry/jQuery-jQuery-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
+* [모바일 swipe(플리킹) 기능 구현하기](http://blim.co.kr/archives/6)
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
