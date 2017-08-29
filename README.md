@@ -49,6 +49,7 @@
 * [React study](https://github.com/react-study) - 하코사 고무곰 스터디
 * [jQuery 성능 최적화](http://yubylab.tistory.com/entry/jQuery-jQuery-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
 * [모바일 swipe(플리킹) 기능 구현하기](http://blim.co.kr/archives/6)
+* [느긋하게 비동기식으로 JavaScript를 웹 문서에 추가하는 방법](https://appletree.or.kr/blog/quotes/%EB%8A%90%EA%B5%BF%ED%95%98%EA%B2%8C-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%8B%9D%EC%9C%BC%EB%A1%9C-javascript%EB%A5%BC-%EC%9B%B9-%EB%AC%B8%EC%84%9C%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EB%8A%94-%EB%B0%A9/)
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
