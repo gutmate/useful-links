@@ -61,6 +61,7 @@
 * [CSS Support Guide for Email Clients | Campaign Monitor](https://www.campaignmonitor.com/css/) - 이메일 코딩 지원 CSS 목록
 * [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](http://wit.nts-corp.com/2017/06/05/4571)
 * [px, dp, dip, sp의 차이점이 뭔가요?](http://hashcode.co.kr/questions/44/px-dp-dip-sp%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
+* [반드시 기억해야 하는 CSS 선택자 30개](https://code.tutsplus.com/ko/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 #### PHP
 * [PHP - MYSQL과 PHP를 이용한 간단한 게시판 만들기](http://gakari.tistory.com/entry/PHP-MYSQL%EA%B3%BC-PHP%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
