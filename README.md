@@ -18,6 +18,7 @@
 * [FEDevelopers](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C) - github +++
 * [VELOPERT.LOG](https://velopert.com/) +++
 * [Wonism](https://jaewonism.com/)
+* [Jay Jin](https://milooy.wordpress.com/) +
 
 ## 좋은 글
 * [개발자들이여 공부하라](https://brunch.co.kr/@techhtml/2)
