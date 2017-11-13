@@ -89,6 +89,7 @@
 * [큐레이션](http://www.freeqration.com/) - 저작권 걱정없는 무료이미지
 * [자바스크립트 개발자 포럼](https://jsdev.kr/)
 * [mopsyshin 포트폴리오 사이트](https://mopsyshin.github.io/) - 디자이너 포트폴리오 사이트 참고(github page)
+* [국내 개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog/blob/master/README.md) ***
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
