@@ -69,6 +69,9 @@
 #### PHP
 * [PHP - MYSQL과 PHP를 이용한 간단한 게시판 만들기](http://gakari.tistory.com/entry/PHP-MYSQL%EA%B3%BC-PHP%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+#### Machine Learning
+* [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
+
 #### ETC
 * [[운영체제] 프로세스가 뭐지?](http://bowbowbow.tistory.com/16)
 * [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
@@ -89,7 +92,7 @@
 * [큐레이션](http://www.freeqration.com/) - 저작권 걱정없는 무료이미지
 * [자바스크립트 개발자 포럼](https://jsdev.kr/)
 * [mopsyshin 포트폴리오 사이트](https://mopsyshin.github.io/) - 디자이너 포트폴리오 사이트 참고(github page)
-* [국내 개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog/blob/master/README.md) ***
+* [국내 개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog/blob/master/README.md) +++
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
