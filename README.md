@@ -77,6 +77,7 @@
 * [[운영체제] 프로세스가 뭐지?](http://bowbowbow.tistory.com/16)
 * [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 * [[걸프(Gulp)] 소개 및 설치](http://recoveryman.tistory.com/285)
+* [Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
 
 ## special
 * [CSS Diner](https://flukeout.github.io)
