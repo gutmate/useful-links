@@ -71,6 +71,7 @@
 * [정찬명 - CSS Flex you must know [WSConf.Seoul.2017. Vol.2]](https://www.slideshare.net/wsconf/css-flex-you-must-konw-wsconfseoul2017-vol2)
 * [웹디자인에서 자간, 행간에 대한 고찰](http://slowalk.tistory.com/2194)
 * [육각형만들기](https://jsfiddle.net/sukgamoni/k6z9kkyp/) - JSFiddle
+* [The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 
 #### PHP
 * [PHP - MYSQL과 PHP를 이용한 간단한 게시판 만들기](http://gakari.tistory.com/entry/PHP-MYSQL%EA%B3%BC-PHP%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
