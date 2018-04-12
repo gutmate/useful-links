@@ -33,6 +33,7 @@
 * [한국어와 웹 폰트에 관한 6.1가지 사실](http://ppss.kr/archives/95221)
 * [Web Developer Roadmap](https://github.com/devJang/developer-roadmap)
 * [처음 코딩을 배울 때 알았으면 좋았을 도구들](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
+* [퍼블리셔 프론트엔드로 보직변경하면서 이직했던 경험담](http://cafe.naver.com/hacosa/208980)
 
 ## 기술 참고
 #### JAVASCRIPT
