@@ -86,6 +86,7 @@
 * [[걸프(Gulp)] 소개 및 설치](http://recoveryman.tistory.com/285)
 * [Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
 * [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
+* [아이폰(iOS) : 기기별 해상도와 UI 최적화](http://solarisailab.com/archives/1060)
 
 ## special
 * [CSS Diner](https://flukeout.github.io)
