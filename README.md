@@ -112,6 +112,7 @@
 * [코드로 디자인을 by Airbnb](https://brunch.co.kr/@designforhuman/23) - REACT-코드로 페인팅하기와 동일한 글
 * [placehold](http://placehold.it/) - 더미이미지
 * [amCharts로 만든 평균 기온, 평균 강수량 차트 데모](https://gist.github.com/codefactory/4427296)
+* [터미널 세션 기록 공유](https://asciinema.org/)
 
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) - one page scroll
