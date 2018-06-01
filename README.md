@@ -61,6 +61,7 @@
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
 * [Responsive email templates](http://zurb.com/playground/responsive-email-templates)
 * [HTML5 Video 태그 모바일에서 자동재생 안되는 경우](http://webisfree.com/2017-08-03/html5-video-%ED%83%9C%EA%B7%B8-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99%EC%9E%AC%EC%83%9D-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
+* [헤딩 제대로 사용하기 -후편(완)-](https://hiphapis.net/2010/01/09/%ED%97%A4%EB%94%A9-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%ED%9B%84%ED%8E%B8%EC%99%84/)
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
