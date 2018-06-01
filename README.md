@@ -119,8 +119,8 @@
 
 ## 정보
 * [Windows XP, VISTA, 7 기본 글꼴](http://oxynotes.com/?p=4663)
-* [Windows 10 기본 글꼴](https://helpx.adobe.com/jp/x-productkb/global/cq08041028.html)
-* [Windows 7 기본 글꼴](https://helpx.adobe.com/jp/x-productkb/global/236469.html)
+* [Windows 10 기본 글꼴](https://helpx.adobe.com/jp/x-productkb/global/cq08041028.html) -adobe 사이트
+* [Windows 7 기본 글꼴](https://helpx.adobe.com/jp/x-productkb/global/236469.html) -adobe 사이트
 
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) - one page scroll
