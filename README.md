@@ -78,16 +78,20 @@
 #### PHP
 * [PHP - MYSQL과 PHP를 이용한 간단한 게시판 만들기](http://gakari.tistory.com/entry/PHP-MYSQL%EA%B3%BC-PHP%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+#### GIT
+* [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
+* [깃헙 Pages에 깃북 배포하기](https://beomi.github.io/2017/11/20/Deploy-Gitbook-to-Github-Pages/)
+
 #### Machine Learning
 * [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
 
 #### ETC
 * [[운영체제] 프로세스가 뭐지?](http://bowbowbow.tistory.com/16)
-* [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 * [[걸프(Gulp)] 소개 및 설치](http://recoveryman.tistory.com/285)
 * [Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
 * [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
 * [아이폰(iOS) : 기기별 해상도와 UI 최적화](http://solarisailab.com/archives/1060)
+
 
 ## special
 * [CSS Diner](https://flukeout.github.io)
