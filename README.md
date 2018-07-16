@@ -84,7 +84,7 @@
 #### GIT
 * [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 * [깃헙 Pages에 깃북 배포하기](https://beomi.github.io/2017/11/20/Deploy-Gitbook-to-Github-Pages/)
-* [Git Flow와 자주 사용되는 Git 명령어들](http://www.holaxprogramming.com/2017/08/26/git-commands/)
+* [Git Flow와 자주 사용되는 Git 명령어들](http://www.holaxprogramming.com/2017/08/26/git-commands/) ++
 
 #### Machine Learning
 * [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
