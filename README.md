@@ -96,6 +96,7 @@
 * [Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
 * [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
 * [아이폰(iOS) : 기기별 해상도와 UI 최적화](http://solarisailab.com/archives/1060)
+* [마크다운 문법](https://simhyejin.github.io/2016/06/30/Markdown-syntax/) +
 
 
 ## special
