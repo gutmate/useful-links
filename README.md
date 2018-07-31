@@ -10,7 +10,7 @@
 ## 기술블로그
 * [PoiemaWeb](http://poiemaweb.com) ++
 * [오늘도 끄적끄적](https://perfectacle.github.io)
-* [formation.p](https://gutmate.github.io)
+* [jinnnh](https://gutmate.github.io)
 * [Insanehong](http://insanehong.kr)
 * [JavaRouka's Note](https://javarouka.github.io/blog) ++
 * [SUPERJANG](http://superjang.com)
