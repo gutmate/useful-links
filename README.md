@@ -122,7 +122,7 @@
 * [국내 개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog/blob/master/README.md) +++
 
 ## Tool
-* [stackedit](https://stackedit.io) - 마크다운 웹 에디터 
+* [stackedit](https://stackedit.io) - 마크다운 웹 에디터
 * [Vimeo Player API](https://github.com/vimeo/player.js)
 * [REACT-코드로 페인팅하기](https://translate.google.co.kr/translate?sl=en&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fairbnb.design%2Fpainting-with-code%2F&edit-text=&act=url)
 * [코드로 디자인을 by Airbnb](https://brunch.co.kr/@designforhuman/23) - REACT-코드로 페인팅하기와 동일한 글
@@ -136,6 +136,7 @@
 * [Windows XP, VISTA, 7 기본 글꼴](http://oxynotes.com/?p=4663)
 * [Windows 10 기본 글꼴](https://helpx.adobe.com/jp/x-productkb/global/cq08041028.html) - adobe 사이트
 * [Windows 7 기본 글꼴](https://helpx.adobe.com/jp/x-productkb/global/236469.html) - adobe 사이트
+* [브라우저 사용 현황](http://gs.statcounter.com/) +
 
 ## jekyll theme
 * [New Age](https://jekynewage.github.io) - one page scroll
