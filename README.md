@@ -9,7 +9,6 @@
 
 ## 기술블로그
 * [PoiemaWeb](http://poiemaweb.com) ++
-* [오늘도 끄적끄적](https://perfectacle.github.io)
 * [jinnnh](https://gutmate.github.io)
 * [Insanehong](http://insanehong.kr)
 * [JavaRouka's Note](https://javarouka.github.io/blog) ++
@@ -17,7 +16,6 @@
 * [Web Club](http://webclub.tistory.com)
 * [FEDevelopers](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C) - github +++
 * [VELOPERT.LOG](https://velopert.com/) +++
-* [Wonism](https://jaewonism.com/)
 * [Jay Jin](https://milooy.wordpress.com/) +
 
 ## 좋은 글
