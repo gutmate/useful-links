@@ -38,7 +38,7 @@
 #### JAVASCRIPT
 * [iscroll 샘플](http://romeoh78.blogspot.kr/2013/07/bounce-iscroll-windows8-ie10-iscroll.html?m=1)
 * [D3.js 시작하기](http://webframeworks.kr/getstarted/d3js/)
-* [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](https://www.slideshare.net/mobile/ibare/ss-39274621)
+* [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](https://www.slideshare.net/mobile/ibare/ss-39274621) - 정규표현식 +++
 * [Android, IOS Webview 개발 팁](http://superjang.com/archives/2980)
 * [jQuery - focus/blur 와 focusin/focusout 의 차이](http://ibrahimovic.tistory.com/13)
 * [bxslider ios웹뷰에서 스크롤과 동시에 슬라이드할때 멈춤(freezes) 현상 해결!](http://starkey1984.blogspot.kr/2016/04/bxslider-ios-freezes.html)
