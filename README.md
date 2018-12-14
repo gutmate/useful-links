@@ -6,6 +6,7 @@
 * [참고사이트](#참고사이트)
 * [Tool](#tool)
 * [jekyll theme](#jekyll-theme)
+* [ETC](#ETC)
 
 ## 기술블로그
 * [PoiemaWeb](http://poiemaweb.com) ++
@@ -143,3 +144,6 @@
 * [Halve](https://taylantatli.github.io/Halve) - stylish
 * [Jasper](http://biomadeira.github.io/jasper)
 * [Modern Blog](https://inded.xyz/Jekyll_modern-blog) - stylish, ajax
+
+## ETC
+* [자신만의 윈도우10 wim파일 만들기!!! 완전 더더더 초보용](https://osmanias.com/feedback/619846)
