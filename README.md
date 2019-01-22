@@ -79,6 +79,7 @@
 * [웹디자인에서 자간, 행간에 대한 고찰](http://slowalk.tistory.com/2194)
 * [육각형만들기](https://jsfiddle.net/sukgamoni/k6z9kkyp/) - JSFiddle
 * [The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
+* [Userfull:nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
 
 #### 웹접근성
 * [접근 가능한 탭 UI 만들기](https://mulder21c.github.io/2018/06/04/how-to-make-accessible-tab-content/) +
