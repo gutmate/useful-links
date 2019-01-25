@@ -60,6 +60,8 @@
 * [jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 * [자바스크립트에서 당장 사용해야 할 5가지의 배열 메소드들 (Array)](http://blog.kazikai.net/?p=16)
 * [JavaScript로 만나는 세상 (draft)](https://helloworldjavascript.net/) - GitBook
+* [자바스크립트 도서 리뷰(1)](https://brunch.co.kr/@timotolkie/24) - 도서 추천
+* [자바스크립트 도서 리뷰(2)](https://brunch.co.kr/@timotolkie/25) - 도서 
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
