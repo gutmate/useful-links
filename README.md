@@ -95,6 +95,10 @@
 * [깃헙 Pages에 깃북 배포하기](https://beomi.github.io/2017/11/20/Deploy-Gitbook-to-Github-Pages/)
 * [Git Flow와 자주 사용되는 Git 명령어들](http://www.holaxprogramming.com/2017/08/26/git-commands/) ++
 
+#### Markdown
+* [마크다운 문법](https://simhyejin.github.io/2016/06/30/Markdown-syntax/) +
+* [너와 나를 위한 마크다운 문법정리!](https://gist.github.com/ninanung/946cd0e2e09bd5a94964ff8b612a9012)
+
 #### Machine Learning
 * [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
 
@@ -104,7 +108,6 @@
 * [Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
 * [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
 * [아이폰(iOS) : 기기별 해상도와 UI 최적화](http://solarisailab.com/archives/1060)
-* [마크다운 문법](https://simhyejin.github.io/2016/06/30/Markdown-syntax/) +
 
 ## special
 * [CSS Diner](https://flukeout.github.io)
