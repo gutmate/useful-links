@@ -84,6 +84,9 @@
 * [Userfull:nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
 * [googlefonts+](https://googlefonts.github.io/korean/)
 
+#### UI/UX
+* [Will These UX Trends Stick or Fade Away?](https://hackernoon.com/ux-trends-2018-a-retrospective-356bd10615a4)
+
 #### 웹접근성
 * [접근 가능한 탭 UI 만들기](https://mulder21c.github.io/2018/06/04/how-to-make-accessible-tab-content/) +
 
