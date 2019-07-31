@@ -103,6 +103,7 @@
 #### Markdown
 * [마크다운 문법](https://simhyejin.github.io/2016/06/30/Markdown-syntax/) +
 * [너와 나를 위한 마크다운 문법정리!](https://gist.github.com/ninanung/946cd0e2e09bd5a94964ff8b612a9012)
+* [마크다운 emoji](https://gist.github.com/rxaviers/7360908) :smile:
 
 #### Machine Learning
 * [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
