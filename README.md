@@ -64,6 +64,7 @@
 * [자바스크립트 도서 리뷰(1)](https://brunch.co.kr/@timotolkie/24) - 도서 추천
 * [자바스크립트 도서 리뷰(2)](https://brunch.co.kr/@timotolkie/25) - 도서
 * [안티 패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN/)
+* [Tech description](https://github.com/FEDevelopers/tech.description/wiki) +++
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
@@ -72,6 +73,7 @@
 * [헤딩 제대로 사용하기 -후편(완)-](https://hiphapis.net/2010/01/09/%ED%97%A4%EB%94%A9-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%ED%9B%84%ED%8E%B8%EC%99%84/)
 * [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 * [레진 WAI-ARIA 가이드라인 소개](https://tech.lezhin.com/2018/04/20/wai-aria)
+* [UTF-8 인코딩에서의 BOM(Byte Order Mark) 문제](http://blog.wystan.net/2007/08/18/bom-byte-order-mark-problem)
 
 #### CSS
 * [116 CSS Menu](http://freefrontend.com/css-menu)
