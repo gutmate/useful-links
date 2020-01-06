@@ -140,6 +140,7 @@
 * [자바스크립트 개발자 포럼](https://jsdev.kr/)
 * [mopsyshin 포트폴리오 사이트](https://mopsyshin.github.io/) - 디자이너 포트폴리오 사이트 참고(github page)
 * [국내 개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog/blob/master/README.md) +++
+* [세미나 및 책, 강연등의 후기](https://github.com/jojoldu/review) ++
 
 ## Tool
 * [stackedit](https://stackedit.io) - 마크다운 웹 에디터
