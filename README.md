@@ -19,6 +19,7 @@
 * [VELOPERT.LOG](https://velopert.com/) +++
 * [Jay Jin](https://milooy.wordpress.com/) +
 * [코딩 공부방](https://moonspam.github.io/)
+* [1분코딩 - 웹 창작자들을 위한 꿀정보](https://studiomeal.com/)
 
 ## 좋은 글
 * [개발자들이여 공부하라](https://brunch.co.kr/@techhtml/2)
