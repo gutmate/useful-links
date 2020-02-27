@@ -105,7 +105,8 @@
 #### GIT
 * [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 * [깃헙 Pages에 깃북 배포하기](https://beomi.github.io/2017/11/20/Deploy-Gitbook-to-Github-Pages/)
-* [Git Flow와 자주 사용되는 Git 명령어들](http://www.holaxprogramming.com/2017/08/26/git-commands/) ++
+* [Git Flow와 자주 사용되는 Git 명령어들](https://www.holaxprogramming.com/2018/11/01/git-commands/) ++
+* [우린 Git-flow를 사용하고 있어요](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 
 #### SERVER
 * [브라우저 캐싱에 대한 웹 개발자 안내서](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
