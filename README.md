@@ -95,6 +95,7 @@
 #### UI/UX
 * [Will These UX Trends Stick or Fade Away?](https://hackernoon.com/ux-trends-2018-a-retrospective-356bd10615a4)
 * [ui-interactions-of-the-week-185](https://medium.muz.li/ui-interactions-of-the-week-185-c00014e7f4bf)
+* [UX에서 애니메이션을 올바르게 사용하기 위한 가이드](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
 #### 웹접근성
 * [접근 가능한 탭 UI 만들기](https://mulder21c.github.io/2018/06/04/how-to-make-accessible-tab-content/) +
