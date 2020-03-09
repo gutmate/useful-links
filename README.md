@@ -99,6 +99,7 @@
 
 #### 웹접근성
 * [접근 가능한 탭 UI 만들기](https://mulder21c.github.io/2018/06/04/how-to-make-accessible-tab-content/) +
+* [센스리더 테이블 읽기 방법(th, scope 지원)](http://haeppa.kr/28) +
 
 #### PHP
 * [PHP - MYSQL과 PHP를 이용한 간단한 게시판 만들기](http://gakari.tistory.com/entry/PHP-MYSQL%EA%B3%BC-PHP%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
