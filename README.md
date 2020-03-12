@@ -2,7 +2,8 @@
 * [기술블로그](#기술블로그)
 * [좋은 글](#좋은-글)
 * [기술 참고](#기술-참고)
-* [special](#special)
+* [Special](#Special)
+* [Inspiration](#Inspiration)
 * [참고사이트](#참고사이트)
 * [Tool](#tool)
 * [jekyll theme](#jekyll-theme)
@@ -20,7 +21,7 @@
 * [Jay Jin](https://milooy.wordpress.com/) +
 * [코딩 공부방](https://moonspam.github.io/)
 * [1분코딩 - 웹 창작자들을 위한 꿀정보](https://studiomeal.com/)
-* [공대여자](http://www.mins01.com/) - 사이트 코딩 참고
+* [공대여자](http://www.mins01.com/) - 사이트 코딩  참고
 
 ## 좋은 글
 * [개발자들이여 공부하라](https://brunch.co.kr/@techhtml/2)
@@ -105,7 +106,7 @@
 #### PHP
 * [PHP - MYSQL과 PHP를 이용한 간단한 게시판 만들기](http://gakari.tistory.com/entry/PHP-MYSQL%EA%B3%BC-PHP%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-#### GIT
+#### Git
 * [Git 커밋 메시지 작성법](https://item4.blog/2016-10-31/How-to-Write-a-Git-Commit-Message/)
 * [깃헙 Pages에 깃북 배포하기](https://beomi.github.io/2017/11/20/Deploy-Gitbook-to-Github-Pages/)
 * [Git Flow와 자주 사용되는 Git 명령어들](https://www.holaxprogramming.com/2018/11/01/git-commands/) ++
@@ -129,12 +130,15 @@
 * [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
 * [아이폰(iOS) : 기기별 해상도와 UI 최적화](http://solarisailab.com/archives/1060)
 
-## special
+## Special
 * [CSS Diner](https://flukeout.github.io)
 * [인터넷교보문고 웹퍼블리싱 가이드](http://image.kyobobook.co.kr/ink/html/guide/index.html)
 * [NHN Coding Convention](http://nuli.navercorp.com/data/convention/NHN_Coding_Conventions_for_Markup_Languages.pdf)
 * [Airbnb Style Guides](https://airbnb.io/projects/styleguides/) +++++
 * [Airbnb Style Guides (KOR)](https://github.com/tipjs/javascript-style-guide) +++++
+
+## Inspiration
+* [UI Interactions of the week #200](https://medium.muz.li/ui-interactions-of-the-week-200-780c198cfbfc) +
 
 ## 참고사이트
 * [하코사](https://hacosa.co.kr)
