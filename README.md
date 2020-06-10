@@ -69,6 +69,7 @@
 * [자바스크립트 도서 리뷰(2)](https://brunch.co.kr/@timotolkie/25) - 도서
 * [안티 패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN/)
 * [Tech description](https://github.com/FEDevelopers/tech.description/wiki) +++
+* [JavaScript에서 싱글 톤을 구현하는 방법](https://www.it-swarm.dev/ko/javascript/javascript%EC%97%90%EC%84%9C-%EC%8B%B1%EA%B8%80-%ED%86%A4%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B3%A0-%EA%B9%94%EB%81%94%ED%95%9C-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/967178775/)
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
