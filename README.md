@@ -71,6 +71,7 @@
 * [Tech description](https://github.com/FEDevelopers/tech.description/wiki) +++
 * [JavaScript에서 싱글 톤을 구현하는 방법](https://www.it-swarm.dev/ko/javascript/javascript%EC%97%90%EC%84%9C-%EC%8B%B1%EA%B8%80-%ED%86%A4%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B3%A0-%EA%B9%94%EB%81%94%ED%95%9C-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/967178775/)
 * [웹 사이트 최적화](https://12bme.tistory.com/127?category=682905)
+* [자바스크립트 개발자라면 알아야 할 33가지 개념 #12 자바스크립트 비트연산 실제로 활용하기!](https://velog.io/@jakeseo_me/2019-04-30-1604-%EC%9E%91%EC%84%B1%EB%90%A8-7qjv3gv9ad)
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
