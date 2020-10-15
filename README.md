@@ -147,7 +147,6 @@
 * [UI Interactions of the week #200](https://medium.muz.li/ui-interactions-of-the-week-200-780c198cfbfc) +
 
 ## 참고사이트
-* [하코사](https://hacosa.co.kr)
 * [FRONT-END 면접 문제 은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md)
 * [web devices capabilities](http://mydevice.io/) - 웹, 모바일 디바이스 width, pixel-ratio, ppi 정보
 * [Code On Web](https://codeonweb.com/) - 코드 실습, 학습
@@ -171,6 +170,7 @@
 * [vue-sui-demo](http://eteplus.github.io/vue-sui-demo/) - vue
 * [Fonty : 웹 폰트를 생성하는 간단한 라이브러리 및 CLI 도구](https://github.com/taggon/fonty)
 * [정규표현식 테스트](https://regexr.com/) 👍👍👍
+* [더미 이미지 링크](https://picsum.photos/)
 
 ## 정보
 * [Windows XP, VISTA, 7 기본 글꼴](http://oxynotes.com/?p=4663)
