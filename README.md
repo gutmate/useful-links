@@ -170,7 +170,7 @@
 * [vue-sui-demo](http://eteplus.github.io/vue-sui-demo/) - vue
 * [Fonty : 웹 폰트를 생성하는 간단한 라이브러리 및 CLI 도구](https://github.com/taggon/fonty)
 * [정규표현식 테스트](https://regexr.com/) 👍👍👍
-* [더미 이미지 링크](https://picsum.photos/)
+* [picsum](https://picsum.photos/) - 더미 이미지 링크
 
 ## 정보
 * [Windows XP, VISTA, 7 기본 글꼴](http://oxynotes.com/?p=4663)
