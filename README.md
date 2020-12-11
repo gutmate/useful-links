@@ -104,7 +104,6 @@
 
 #### UI/UX
 * [Will These UX Trends Stick or Fade Away?](https://hackernoon.com/ux-trends-2018-a-retrospective-356bd10615a4)
-* [ui-interactions-of-the-week-185](https://medium.muz.li/ui-interactions-of-the-week-185-c00014e7f4bf)
 * [UX에서 애니메이션을 올바르게 사용하기 위한 가이드](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
 #### 웹접근성
@@ -147,7 +146,9 @@
 
 ## Inspiration
 * [UI Interactions of the week #178](https://medium.muz.li/ui-interactions-of-the-week-178-9235150cbeb1)
+* [ui-interactions-of-the-week #185](https://medium.muz.li/ui-interactions-of-the-week-185-c00014e7f4bf)
 * [UI Interactions of the week #200](https://medium.muz.li/ui-interactions-of-the-week-200-780c198cfbfc) +
+* [UI Interactions of the week #240](https://medium.muz.li/ui-interactions-of-the-week-240-427471834392) ++
 
 ## 참고사이트
 * [FRONT-END 면접 문제 은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md)
