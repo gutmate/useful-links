@@ -177,6 +177,7 @@
 * [picsum](https://picsum.photos/) - 더미 이미지 링크
 * [githistory.xyz](https://githistory.xyz/) - github history diff view 👍👍
 * [BABEL](https://babeljs.io/repl)
+* [jsdelivr](https://www.jsdelivr.com/) - A free CDN for Open Source 👍👍
 
 ## 정보
 * [Windows XP, VISTA, 7 기본 글꼴](http://oxynotes.com/?p=4663)
