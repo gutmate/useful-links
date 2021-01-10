@@ -75,6 +75,7 @@
 * [자바스크립트 개발자라면 알아야 할 33가지 개념 #12 자바스크립트 비트연산 실제로 활용하기!](https://velog.io/@jakeseo_me/2019-04-30-1604-%EC%9E%91%EC%84%B1%EB%90%A8-7qjv3gv9ad)
 * [클린코드를 위한 리팩토링](https://feel5ny.github.io/2017/12/09/Refactoring/)
 * [The anatomy of a vanilla JavaScript plugin](https://gomakethings.com/the-anatomy-of-a-vanilla-javascript-plugin/)
+* [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
 
 #### HTML
 * [HTML5 Frames Templates](http://www.html.am/templates/html5-frames-templates/)
