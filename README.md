@@ -105,6 +105,7 @@
 * [FLEXBOX FROGGY](https://flexboxfroggy.com/#ko) - flexbox 학습
 * [CSS Gradient](https://cssgradient.io/)
 * [Position: stuck; — and a way to fix it](https://uxdesign.cc/position-stuck-96c9f55d9526)
+* [web`s CSS](https://wsss.tistory.com/) - CSS Reference 👍👍👍
 
 #### UI/UX
 * [Will These UX Trends Stick or Fade Away?](https://hackernoon.com/ux-trends-2018-a-retrospective-356bd10615a4)
