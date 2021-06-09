@@ -149,6 +149,7 @@
 * [NHN Coding Convention](https://nuli.navercorp.com/tool/codingCon)
 * [Airbnb Style Guides](https://airbnb.io/projects/styleguides/) 👍👍👍👍👍
 * [Airbnb Style Guides (KOR)](https://github.com/tipjs/javascript-style-guide) 👍👍👍👍👍
+* [텔레그램 재고 알림 봇 ](https://tech.lonpeach.com/2021/02/13/python-telegram-restock-bot/)
 
 ## Inspiration
 * [UI Interactions of the week #178](https://medium.muz.li/ui-interactions-of-the-week-178-9235150cbeb1)
