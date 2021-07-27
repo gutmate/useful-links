@@ -125,6 +125,7 @@
 * [Git Flow와 자주 사용되는 Git 명령어들](https://www.holaxprogramming.com/2018/11/01/git-commands/) 👍👍
 * [우린 Git-flow를 사용하고 있어요](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 * [CS Visualized: Useful Git Commands](https://craftyworks.github.io/git-your-mind/) 👍
+* [git 명령 취소(되돌리기)](https://velog.io/@henotony/git-%EB%AA%85%EB%A0%B9-%EC%B7%A8%EC%86%8C%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0)
 
 #### SERVER
 * [브라우저 캐싱에 대한 웹 개발자 안내서](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
