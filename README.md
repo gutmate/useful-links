@@ -187,6 +187,7 @@
 * [githistory.xyz](https://githistory.xyz/) - github history diff view 👍👍
 * [BABEL](https://babeljs.io/repl)
 * [jsdelivr](https://www.jsdelivr.com/) - A free CDN for Open Source 👍👍
+* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 
 ## 정보
 * [Windows XP, VISTA, 7 기본 글꼴](http://oxynotes.com/?p=4663)
