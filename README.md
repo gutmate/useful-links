@@ -23,7 +23,7 @@
 * [1분코딩 - 웹 창작자들을 위한 꿀정보](https://studiomeal.com/)
 * [공대여자](http://www.mins01.com/) - 사이트 코딩 참고
 * [CSS3 활용](https://wsss.tistory.com/) 👍👍👍
-* [천종희 기술 블로그](https://jong-hui.github.io/)
+* [천종희 기술 블로그](https://jong-hui.github.io/) - 주접생성기
 
 ## 좋은 글
 * [개발자들이여 공부하라](https://brunch.co.kr/@techhtml/2)
